@@ -97,9 +97,9 @@
 <entry id="8388987" method="true" symbol="vibrate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389097" method="true" symbol="onKey"/>
-<entry field="true" id="28" symbol="LABEL"/>
+<entry field="true" id="33" symbol="LABEL"/>
 <entry field="true" id="15" symbol="running"/>
-<entry id="32" method="true" symbol="handleSettingsChanged"/>
+<entry id="37" method="true" symbol="handleSettingsChanged"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry field="true" id="8388720" symbol="hour"/>
@@ -110,17 +110,19 @@
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="22" method="true" symbol="MainLayout"/>
 <entry id="9" method="true" symbol="getDayOfYear"/>
+<entry field="true" id="26" symbol="TopLabel"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="17" object="true" symbol="CyclesWidgetView"/>
 <entry id="8388636" module="true" symbol="Attention"/>
-<entry field="true" id="30" symbol="OFFSET_DAYS"/>
+<entry field="true" id="35" symbol="OFFSET_DAYS"/>
 <entry id="10" method="true" symbol="getWeekOfYear"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="23" symbol="AppName"/>
-<entry field="true" id="26" symbol="PREFIX"/>
-<entry field="true" id="25" symbol="myInputDelegate"/>
+<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="31" symbol="PREFIX"/>
+<entry field="true" id="30" symbol="myInputDelegate"/>
+<entry field="true" id="24" symbol="Prefix"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry field="true" id="21" symbol="LauncherIcon"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
@@ -133,27 +135,30 @@
 <entry field="true" id="13" symbol="pausedTime"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="29" symbol="PERIOD_DURATION"/>
+<entry field="true" id="34" symbol="PERIOD_DURATION"/>
 <entry field="true" id="8388940" symbol="year"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="31" method="true" symbol="secondPassedEvent"/>
+<entry id="36" method="true" symbol="secondPassedEvent"/>
 <entry field="true" id="20" symbol="id_monkey"/>
-<entry id="34" method="true" symbol="getValidProperty"/>
+<entry id="39" method="true" symbol="getValidProperty"/>
 <entry field="true" id="8388939" symbol="day"/>
-<entry field="true" id="27" symbol="SUFIX"/>
+<entry field="true" id="32" symbol="SUFIX"/>
 <entry id="11" object="true" symbol="CyclesWidgetApp"/>
 <entry field="true" id="8388938" symbol="month"/>
 <entry id="18" module="true" symbol="Layouts"/>
-<entry id="33" method="true" symbol="restorePersistedSettings"/>
+<entry id="38" method="true" symbol="restorePersistedSettings"/>
 <entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="27" symbol="PeriodDuration"/>
 <entry id="12" object="true" symbol="MyInputDelegate"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="24" symbol="myView"/>
+<entry field="true" id="29" symbol="myView"/>
 <entry field="true" id="8389063" symbol="identifier"/>
+<entry field="true" id="23" symbol="OffsetDays"/>
 <entry id="19" module="true" symbol="Menus"/>
 <entry field="true" id="14" symbol="delta"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="25" symbol="Sufix"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
@@ -191,9 +196,9 @@
 <dataEntry offset="434" parentId="Rez" symbolId="Layouts" type="module"/>
 <dataEntry offset="473" parentId="Rez" symbolId="JsonData" type="module"/>
 <dataEntry offset="504" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="543" parentId="globals" symbolId="MyInputDelegate" type="class"/>
-<dataEntry offset="606" parentId="globals" symbolId="CyclesWidgetApp" type="class"/>
-<dataEntry offset="701" parentId="globals" symbolId="CyclesWidgetView" type="class"/>
+<dataEntry offset="583" parentId="globals" symbolId="MyInputDelegate" type="class"/>
+<dataEntry offset="646" parentId="globals" symbolId="CyclesWidgetApp" type="class"/>
+<dataEntry offset="741" parentId="globals" symbolId="CyclesWidgetView" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" name="getDayOfYear">

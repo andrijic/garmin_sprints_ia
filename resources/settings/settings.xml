@@ -1,0 +1,26 @@
+<settings>
+
+    <setting propertyKey="@Properties.Prefix" title="@Strings.Prefix">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    
+    <setting propertyKey="@Properties.Sufix" title="@Strings.Sufix">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+
+  <setting propertyKey="@Properties.TopLabel" title="@Strings.TopLabel">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+
+
+  <setting propertyKey="@Properties.PeriodDuration" title="@Strings.PeriodDuration">
+        <settingConfig type="numeric" min="0" max="365"/>
+    </setting>
+
+
+  <setting propertyKey="@Properties.OffsetDays" title="@Strings.OffsetDays">
+        <settingConfig type="numeric" min="0" max="365"/>
+    </setting>
+
+
+</settings>

@@ -1,0 +1,8 @@
+<properties>
+
+    <property id="Prefix" type="string">S</property>
+    <property id="Sufix" type="string">.2019</property>
+    <property id="TopLabel" type="string">Televend</property>
+    <property id="PeriodDuration" type="number">14</property>
+    <property id="OffsetDays" type="number">0</property>
+</properties>

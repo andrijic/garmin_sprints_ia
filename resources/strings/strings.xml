@@ -1,3 +1,8 @@
 <strings>
     <string id="AppName">Cycles</string>
+     <string id="Prefix">Prefix</string>
+     <string id="Sufix">Sufix</string>
+     <string id="TopLabel">Top label</string>
+     <string id="PeriodDuration">Period duration in days</string>
+     <string id="OffsetDays">Offset in days</string>
 </strings>
