@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="7" pc="268435456" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="8" pc="268435468" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="9" pc="268435485" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="11" pc="268435516" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="18" pc="268435579" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="20" pc="268435598" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="21" pc="268435613" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="2" lineNum="23" pc="268435645" symbol="getDayOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="3" lineNum="26" pc="268435649" symbol="getWeekOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\data_utils.mc" id="3" lineNum="27" pc="268435661" symbol="getWeekOfYear"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="5" lineNum="12" pc="268435686" symbol="initialize"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="5" lineNum="13" pc="268435690" symbol="initialize"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="6" lineNum="17" pc="268435709" symbol="onStart"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="7" lineNum="21" pc="268435714" symbol="onStop"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="8" lineNum="25" pc="268435719" symbol="getInitialView"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="8" lineNum="26" pc="268435723" symbol="getInitialView"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="8" lineNum="27" pc="268435753" symbol="getInitialView"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="8" lineNum="29" pc="268435783" symbol="getInitialView"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="9" lineNum="33" pc="268435823" symbol="onSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="9" lineNum="34" pc="268435827" symbol="onSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="9" lineNum="35" pc="268435845" symbol="onSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="9" lineNum="36" pc="268435858" symbol="onSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="52" pc="268435880" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="53" pc="268435884" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="55" pc="268435897" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="56" pc="268435915" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="59" pc="268435980" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="60" pc="268435998" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="11" lineNum="64" pc="268436033" symbol="onKey"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="12" lineNum="68" pc="268436037" symbol="vibrate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="12" lineNum="69" pc="268436041" symbol="vibrate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="12" lineNum="70" pc="268436056" symbol="vibrate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetApp.mc" id="12" lineNum="74" pc="268436108" symbol="vibrate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="14" lineNum="27" pc="268436133" symbol="secondPassedEvent"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="14" lineNum="28" pc="268436137" symbol="secondPassedEvent"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="15" lineNum="31" pc="268436154" symbol="initialize"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="15" lineNum="32" pc="268436158" symbol="initialize"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="15" lineNum="33" pc="268436176" symbol="initialize"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="37" pc="268436189" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="38" pc="268436193" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="39" pc="268436230" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="41" pc="268436250" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="42" pc="268436264" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="43" pc="268436285" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="44" pc="268436295" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="16" lineNum="47" pc="268436370" symbol="onLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="17" lineNum="53" pc="268436385" symbol="onShow"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="59" pc="268436390" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="61" pc="268436394" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="62" pc="268436430" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="63" pc="268436442" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="66" pc="268436478" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="68" pc="268436544" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="70" pc="268436582" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="73" pc="268436628" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="74" pc="268436650" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="75" pc="268436686" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="78" pc="268436764" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="80" pc="268436789" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="83" pc="268436888" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="19" lineNum="90" pc="268436982" symbol="onHide"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="94" pc="268436987" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="96" pc="268436991" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="97" pc="268437028" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="98" pc="268437065" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="99" pc="268437102" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="100" pc="268437139" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="103" pc="268437176" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="105" pc="268437193" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="106" pc="268437218" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="107" pc="268437243" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="108" pc="268437268" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="109" pc="268437293" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="111" pc="268437318" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="114" pc="268437331" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="116" pc="268437335" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="118" pc="268437352" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="119" pc="268437383" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="120" pc="268437414" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="121" pc="268437445" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="122" pc="268437476" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="125" pc="268437508" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="126" pc="268437512" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="128" pc="268437527" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="129" pc="268437534" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="131" pc="268437540" symbol="getValidProperty"/>
+<entry filename="Rez" id="28" lineNum="16" pc="268437544" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="19" pc="268437556" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="20" pc="268437675" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="22" pc="268437739" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="28" symbol="LABEL"/>
+<entry field="true" id="15" symbol="running"/>
+<entry id="32" method="true" symbol="handleSettingsChanged"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="8388720" symbol="hour"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="8388731" symbol="startTime"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="16" symbol="childViewCreated"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="22" method="true" symbol="MainLayout"/>
+<entry id="9" method="true" symbol="getDayOfYear"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="17" object="true" symbol="CyclesWidgetView"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry field="true" id="30" symbol="OFFSET_DAYS"/>
+<entry id="10" method="true" symbol="getWeekOfYear"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="26" symbol="PREFIX"/>
+<entry field="true" id="25" symbol="myInputDelegate"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="8388696" symbol="timer1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="13" symbol="pausedTime"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="29" symbol="PERIOD_DURATION"/>
+<entry field="true" id="8388940" symbol="year"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="31" method="true" symbol="secondPassedEvent"/>
+<entry field="true" id="20" symbol="id_monkey"/>
+<entry id="34" method="true" symbol="getValidProperty"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry field="true" id="27" symbol="SUFIX"/>
+<entry id="11" object="true" symbol="CyclesWidgetApp"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry id="18" module="true" symbol="Layouts"/>
+<entry id="33" method="true" symbol="restorePersistedSettings"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="12" object="true" symbol="MyInputDelegate"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="24" symbol="myView"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="19" module="true" symbol="Menus"/>
+<entry field="true" id="14" symbol="delta"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435648" name="day_of_year" stackId="5" startPc="268435468"/>
+<entry endPc="268435648" name="options" stackId="3" startPc="268435468"/>
+<entry endPc="268435648" name="date" stackId="1" startPc="268435468"/>
+<entry endPc="268435648" name="info" stackId="2" startPc="268435468"/>
+<entry endPc="268435648" name="start_of_year" stackId="4" startPc="268435468"/>
+<entry endPc="268435714" name="state" stackId="1" startPc="268435709"/>
+<entry endPc="268435719" name="state" stackId="1" startPc="268435714"/>
+<entry endPc="268436036" name="key" stackId="2" startPc="268435884"/>
+<entry endPc="268436037" name="event" stackId="1" startPc="268435880"/>
+<entry endPc="268436126" name="vibeData" stackId="1" startPc="268436056"/>
+<entry endPc="268436385" name="dc" stackId="1" startPc="268436189"/>
+<entry endPc="268436981" name="rezult" stackId="3" startPc="268436394"/>
+<entry endPc="268436981" name="sprintValue" stackId="2" startPc="268436394"/>
+<entry endPc="268436981" name="current" stackId="4" startPc="268436394"/>
+<entry endPc="268436982" name="dc" stackId="1" startPc="268436390"/>
+<entry endPc="268437330" name="app" stackId="1" startPc="268436991"/>
+<entry endPc="268437507" name="app" stackId="1" startPc="268437335"/>
+<entry endPc="268437543" name="input_value" stackId="4" startPc="268437512"/>
+<entry endPc="268437544" name="default_value" stackId="3" startPc="268437508"/>
+<entry endPc="268437544" name="param_name" stackId="2" startPc="268437508"/>
+<entry endPc="268437544" name="app" stackId="1" startPc="268437508"/>
+<entry endPc="268437756" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437556"/>
+<entry endPc="268437757" name="dc" stackId="1" startPc="268437544"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="246" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="325" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="372" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="434" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="473" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="504" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="543" parentId="globals" symbolId="MyInputDelegate" type="class"/>
+<dataEntry offset="606" parentId="globals" symbolId="CyclesWidgetApp" type="class"/>
+<dataEntry offset="701" parentId="globals" symbolId="CyclesWidgetView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="getDayOfYear">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWeekOfYear">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CyclesWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="CyclesWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="CyclesWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="CyclesWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="CyclesWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="MyInputDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="vibrate" parent="MyInputDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="secondPassedEvent" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="CyclesWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="CyclesWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="handleSettingsChanged" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="restorePersistedSettings" parent="CyclesWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getValidProperty" parent="CyclesWidgetView">
+<param id="app"/>
+<param id="param_name"/>
+<param id="default_value"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
