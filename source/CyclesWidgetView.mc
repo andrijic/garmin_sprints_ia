@@ -75,7 +75,7 @@ class CyclesWidgetView extends Ui.View {
         dc.drawText( dc.getWidth()/2, (dc.getHeight() / 2) - 20, Gfx.FONT_MEDIUM, rezult, Gfx.TEXT_JUSTIFY_CENTER );
         
         //draw ramining days
-        var current = getDayOfYear() - sprintValue * PERIOD_DURATION + 1;
+        var current = (getDayOfYear() - OFFSET_DAYS) - sprintValue * PERIOD_DURATION + 1;
 //        var remains = (sprintValue + 1) * PERIOD_DURATION - getDayOfYear();
          dc.drawText( dc.getWidth()/2, (dc.getHeight() / 2) +10, Gfx.FONT_MEDIUM, "Day:" + current + "/" + PERIOD_DURATION, Gfx.TEXT_JUSTIFY_CENTER );
         

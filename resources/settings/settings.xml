@@ -19,7 +19,7 @@
 
 
   <setting propertyKey="@Properties.OffsetDays" title="@Strings.OffsetDays">
-        <settingConfig type="numeric" min="0" max="365"/>
+        <settingConfig type="numeric" min="-365" max="365"/>
     </setting>
 
 

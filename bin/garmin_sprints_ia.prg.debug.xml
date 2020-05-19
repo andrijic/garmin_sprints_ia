@@ -59,38 +59,38 @@
 <entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="74" pc="268436650" symbol="onUpdate"/>
 <entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="75" pc="268436686" symbol="onUpdate"/>
 <entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="78" pc="268436764" symbol="onUpdate"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="80" pc="268436795" symbol="onUpdate"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="83" pc="268436894" symbol="onUpdate"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="19" lineNum="90" pc="268436988" symbol="onHide"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="94" pc="268436993" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="96" pc="268436997" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="97" pc="268437034" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="98" pc="268437071" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="99" pc="268437108" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="100" pc="268437145" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="103" pc="268437182" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="105" pc="268437199" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="106" pc="268437224" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="107" pc="268437249" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="108" pc="268437274" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="109" pc="268437299" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="111" pc="268437324" symbol="handleSettingsChanged"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="114" pc="268437337" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="116" pc="268437341" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="118" pc="268437358" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="119" pc="268437389" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="120" pc="268437420" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="121" pc="268437451" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="122" pc="268437482" symbol="restorePersistedSettings"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="125" pc="268437514" symbol="getValidProperty"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="126" pc="268437518" symbol="getValidProperty"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="128" pc="268437533" symbol="getValidProperty"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="129" pc="268437540" symbol="getValidProperty"/>
-<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="131" pc="268437546" symbol="getValidProperty"/>
-<entry filename="Rez" id="28" lineNum="16" pc="268437550" symbol="MainLayout"/>
-<entry filename="Rez" id="28" lineNum="19" pc="268437562" symbol="MainLayout"/>
-<entry filename="Rez" id="28" lineNum="20" pc="268437681" symbol="MainLayout"/>
-<entry filename="Rez" id="28" lineNum="22" pc="268437745" symbol="MainLayout"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="80" pc="268436804" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="18" lineNum="83" pc="268436903" symbol="onUpdate"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="19" lineNum="90" pc="268436997" symbol="onHide"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="94" pc="268437002" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="96" pc="268437006" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="97" pc="268437043" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="98" pc="268437080" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="99" pc="268437117" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="100" pc="268437154" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="103" pc="268437191" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="105" pc="268437208" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="106" pc="268437233" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="107" pc="268437258" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="108" pc="268437283" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="109" pc="268437308" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="20" lineNum="111" pc="268437333" symbol="handleSettingsChanged"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="114" pc="268437346" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="116" pc="268437350" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="118" pc="268437367" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="119" pc="268437398" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="120" pc="268437429" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="121" pc="268437460" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="21" lineNum="122" pc="268437491" symbol="restorePersistedSettings"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="125" pc="268437523" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="126" pc="268437527" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="128" pc="268437542" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="129" pc="268437549" symbol="getValidProperty"/>
+<entry filename="D:\\GarminDev\\garmin_sprints_ia\\source\\CyclesWidgetView.mc" id="22" lineNum="131" pc="268437555" symbol="getValidProperty"/>
+<entry filename="Rez" id="28" lineNum="16" pc="268437559" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="18" pc="268437571" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="19" pc="268437690" symbol="MainLayout"/>
+<entry filename="Rez" id="28" lineNum="21" pc="268437742" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
@@ -173,18 +173,18 @@
 <entry endPc="268436037" name="event" stackId="1" startPc="268435880"/>
 <entry endPc="268436126" name="vibeData" stackId="1" startPc="268436056"/>
 <entry endPc="268436385" name="dc" stackId="1" startPc="268436189"/>
-<entry endPc="268436987" name="rezult" stackId="3" startPc="268436394"/>
-<entry endPc="268436987" name="sprintValue" stackId="2" startPc="268436394"/>
-<entry endPc="268436987" name="current" stackId="4" startPc="268436394"/>
-<entry endPc="268436988" name="dc" stackId="1" startPc="268436390"/>
-<entry endPc="268437336" name="app" stackId="1" startPc="268436997"/>
-<entry endPc="268437513" name="app" stackId="1" startPc="268437341"/>
-<entry endPc="268437549" name="input_value" stackId="4" startPc="268437518"/>
-<entry endPc="268437550" name="default_value" stackId="3" startPc="268437514"/>
-<entry endPc="268437550" name="param_name" stackId="2" startPc="268437514"/>
-<entry endPc="268437550" name="app" stackId="1" startPc="268437514"/>
-<entry endPc="268437762" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437562"/>
-<entry endPc="268437763" name="dc" stackId="1" startPc="268437550"/>
+<entry endPc="268436996" name="rezult" stackId="3" startPc="268436394"/>
+<entry endPc="268436996" name="sprintValue" stackId="2" startPc="268436394"/>
+<entry endPc="268436996" name="current" stackId="4" startPc="268436394"/>
+<entry endPc="268436997" name="dc" stackId="1" startPc="268436390"/>
+<entry endPc="268437345" name="app" stackId="1" startPc="268437006"/>
+<entry endPc="268437522" name="app" stackId="1" startPc="268437350"/>
+<entry endPc="268437558" name="input_value" stackId="4" startPc="268437527"/>
+<entry endPc="268437559" name="default_value" stackId="3" startPc="268437523"/>
+<entry endPc="268437559" name="param_name" stackId="2" startPc="268437523"/>
+<entry endPc="268437559" name="app" stackId="1" startPc="268437523"/>
+<entry endPc="268437759" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437571"/>
+<entry endPc="268437760" name="dc" stackId="1" startPc="268437559"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
