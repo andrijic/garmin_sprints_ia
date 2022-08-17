@@ -29,6 +29,10 @@ class CyclesWidgetApp extends App.AppBase {
         return [ myView, myInputDelegate];
     }
     
+   function getGlanceView(){
+    	return [new CyclesGlanceView()];
+    }
+    
      // New app settings have been received so trigger a UI update
     function onSettingsChanged() {
         CyclesWidgetView.requestUpdate();
